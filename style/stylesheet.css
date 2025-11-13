@@ -15,7 +15,7 @@
 }
 
 .blue-circle{
-    background-color: blue;
+    background-color: #5395ff;
 }
 
 .mini-circle{
@@ -41,7 +41,7 @@ body{
 }
 
 .blue-btn{
-    background-color:blue ;
+    background-color:#0061fe; ;
     color: white;   
     }
 
@@ -53,7 +53,7 @@ body{
 
 
 .blue-btn:hover{
-    background-color: aqua;
+    background-color: #5395ff;
 }
 
 .white-btn:hover{
@@ -72,21 +72,25 @@ a{
 
 .a-decoration {
     text-decoration-line: underline;
-    color: blue;
+    color: #0061fe;
+}
+
+.a-decoration:hover{
+    color: #5395ff;
 }
 
 .border{
-    border: 1px black solid;
+    border: 1px solid rgb(208 207 211);
 }
 
 .border-bottom{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(208 207 211);
 }
 
 /*Header*/
 
 header{
-    background-color: aliceblue;
+    background-color: #b4d0e6;
 }
 
 .navbar-wrap{
@@ -173,7 +177,6 @@ bottom:0px
 /*border before main*/
 
 .border{
-    border: 1px solid black;
     margin: 150px 0 0 0;
 }
 
@@ -282,7 +285,7 @@ h2 {
 }
 
 i.fa-check{
-    color: blue;
+    color: #5395ff;
 }
 
 
