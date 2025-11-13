@@ -199,8 +199,8 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    gap: 30px;   
-    padding-left: 30px;
+    gap: 40px;      
+    padding: 30px 20px;
     line-height: 30px;
 }
 
@@ -209,9 +209,28 @@ h2 {
     width: 20%;
  }
 
+ .name-plan h3{
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+ .price{
+    font-weight: 700;
+ }
+
+ .strong-suit-point span {
+    padding: 10px 0; 
+}
+
 .card-wrap span{
     display: block;
 }
+
+.free-trial span{
+    margin: 20px 0;
+}
+
+
 
 /*debug
 
@@ -220,6 +239,3 @@ h2 {
 }
 */
 
-.card-plan{
-background-color: rgb(206, 110, 168);
-}
