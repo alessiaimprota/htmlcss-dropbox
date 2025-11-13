@@ -310,6 +310,27 @@ i.fa-check{
     font-size: 24px;
 }
 
+/*Section Operation*/
+.operation-dropbox-wrap{
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.operation{
+    padding-top: 50px;
+    width: calc(100% / 3 - (80px /3));
+}
+
+.operation img{
+    width: 100%;
+}
+
+.operation h3{
+    font-size: 24px;
+    padding-bottom: 15px;
+}
 
 
 /*debug
@@ -318,4 +339,3 @@ i.fa-check{
     background-color: rgb(193, 141, 82)s;
 }
 */
-
